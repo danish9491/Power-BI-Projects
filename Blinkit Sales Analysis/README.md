@@ -91,6 +91,19 @@ Thank you for exploring the **Blinkit Sales Analysis Dashboard** project!
 
 ## 🚀 **How to Use**
 
-1. **Clone or Download** the repository:
+1. **Download or Clone** the repository to your local machine:
    ```bash
    git clone https://github.com/danish9491/Ecommerce-Sales-Data-Analysis---Power-BI-Dashboard.git
+
+2. **Open the Power BI file** (`.pbix`) using **Power BI Desktop**.
+
+3. **Explore the interactive dashboard**:
+   - **Filter data** by region, product category, and payment method.
+   - **Utilize the slicers and drill-down features** to gain detailed insights.
+   - **Review sales trends**, product performance, and customer behavior.
+   - **Analyze key metrics** such as total sales, profit margins, and regional performance.
+
+## ✉️ Contact
+
+For any questions, feedback, or collaboration opportunities, please feel free to reach out at:  
+📧 **[daansari7300@gmail.com](mailto:daansari7300@gmail.com)**
