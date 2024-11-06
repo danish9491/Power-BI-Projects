@@ -2,7 +2,6 @@
 
 This repository contains an interactive **Power BI dashboard** designed to analyze **Blinkit’s** sales data, providing valuable insights into sales performance, customer satisfaction, and outlet characteristics. By exploring these factors, the dashboard aids in identifying key drivers of sales variations, ultimately supporting Blinkit in making data-driven decisions for optimization.
 
-
 ## 🖼️ Dashboard Preview
 
 ![Dashboard Preview](https://raw.githubusercontent.com/danish9491/Power-BI-Projects/refs/heads/main/Blinkit%20Sales%20Analysis/Preview%20Dashboard.png) <!-- Update with the actual image path -->
@@ -79,11 +78,6 @@ This project provides a detailed analysis of Blinkit's sales data, uncovering cr
 ### References
 - **Dataset**: [Kaggle - Blinkit Dataset](https://www.kaggle.com/datasets/mukeshgadri/blinkit-dataset)
 - Additional resources used for Power BI techniques and dashboard optimization.
-
----
-
-
-
 
 ---
 
