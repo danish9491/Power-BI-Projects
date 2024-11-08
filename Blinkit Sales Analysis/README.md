@@ -36,7 +36,7 @@ The primary goal of this project is to:
 
 - **Power BI**: Used for creating dynamic visualizations and interactive dashboards.
 - **Python**: Employed for preprocessing, cleaning, and transforming the data.
-- **Excel**: Initially used for exploratory data analysis (if applicable).
+- **Excel**: Initially used for exploratory data analysis.
 
 ---
 
