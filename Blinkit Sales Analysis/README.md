@@ -4,7 +4,7 @@ This repository contains an interactive **Power BI dashboard** designed to analy
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](https://raw.githubusercontent.com/danish9491/Power-BI-Projects/refs/heads/main/Blinkit%20Sales%20Analysis/Preview%20Dashboard.png)
+![Dashboard Preview](https://raw.githubusercontent.com/danish9491/Power-BI-Projects/refs/heads/main/Blinkit%20Sales%20Analysis/Preview%20Dashboard.png.png)
 
 ---
 
