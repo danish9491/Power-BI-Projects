@@ -62,21 +62,9 @@ Welcome to my collection of **Power BI projects**! This repository contains inte
   
 ---
 
-## 📚 Dataset
-
-- **Blinkit Sales Dataset**: [Kaggle - Blinkit Dataset](https://www.kaggle.com/datasets/mukeshgadri/blinkit-dataset)
-  
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions for improvements, feel free to fork the repository and submit a pull request. Please ensure that all code is well-documented, follows best practices, and passes any tests.
-
----
-
-## 📜 License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your requirements.
 
 ---
 
@@ -86,14 +74,6 @@ For any questions or inquiries, feel free to reach out to me:
 
 - **Email**: [daansari7300@gmail.com](mailto:daansari7300@gmail.com)
 - **LinkedIn**: [Danish Ansari](https://www.linkedin.com/in/danish9491/)
-
----
-
-## 🏆 Badges
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)  
-[![Build Status](https://img.shields.io/travis/your-username/Power-BI-Projects.svg?style=flat)](https://travis-ci.org/your-username/Power-BI-Projects)
 
 ---
 
